@@ -1,0 +1,4 @@
+ALLOW GET /*
+DENY GET /api/*
+DENY GET /jury/*
+DENY GET *clarifications*
